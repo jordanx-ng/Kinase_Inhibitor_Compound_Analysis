@@ -1,4 +1,4 @@
-# Compound Screening Insights – Kinase Target Analysis for Drug Discovery
+# Kinase_Inhibitor_Compound_Analysis for Drug Discovery
 
 ## Background
 
