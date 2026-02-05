@@ -1,4 +1,4 @@
-# Kinase_Inhibitor_Compound_Analysis for Drug Discovery
+# Exploratory Analysis of Kinase Inhibitors for Drug Discovery
 
 ## Background
 
